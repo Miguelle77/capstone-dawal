@@ -1,0 +1,120 @@
+* {
+	padding: 0;
+	margin:  0;
+	box-sizing: border-box;
+	font-family: Verdana, sans-serif;
+
+}
+
+html {
+ scroll-behavior: smooth;
+}
+
+/* Nav Bar */
+
+.navbar {
+	background-color: #FFF4DE;
+	border-bottom: 1px solid black;
+}
+
+
+
+/*Landing Page*/
+
+#about-me {
+background-color: #FEE1A6;
+	
+}
+
+#name-1 {
+	margin-top: 1rem;
+}
+
+
+#quote-1 {
+	margin-top: -2rem;
+}
+
+
+/*About Me*/
+
+#whole-me {
+	background-color: #FFF4DE;
+}
+
+
+#aboutme {;
+}
+
+#personal-2 {
+	max-height: 30rem;
+	border-radius: 25px;
+}
+
+#personal-3 {
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+/*Gallery Section*/
+
+#gallery-2 {
+	background-color: #FEE1A6;
+ 	
+}
+
+#gallery-1 {
+	padding-top: 2rem;
+
+}
+
+.carousel-caption {
+
+	text-shadow: 2px 2px black;
+}
+
+
+
+.card {
+	background-color:  #FFF4DE;
+	border-radius: 50px;
+}
+
+
+
+
+/*Contact Section*/
+
+#contact-1 {
+	background-color: #FFF4DE;
+}
+
+#contact-bg {
+	background-color: #FEE1A6;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
